@@ -1,0 +1,3 @@
+public main HelloWorld{
+ System.out.println("Hello World!");
+}
